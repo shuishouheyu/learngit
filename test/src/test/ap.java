@@ -3,7 +3,7 @@ package test;
 
  class bb{
 	public bb(){
-		System.out.println("bb1");
+		System.out.println("bb125");
 	}
 }
 public class ap extends bb{

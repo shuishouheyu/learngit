@@ -8,7 +8,7 @@ public class MyList {
 
 	private List list=new ArrayList();
 	public void add() {
-		list.add("11");
+		list.add("113");
 	}
 	public int size() {
 		return list.size();
